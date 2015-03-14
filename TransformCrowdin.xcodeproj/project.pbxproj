@@ -11,13 +11,14 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		A1A4A0EE1AB4821200E41897 /* CopyFiles */ = {
+		A1A4A0EE1AB4821200E41897 /* Copy Files */ = {
 			isa = PBXCopyFilesBuildPhase;
-			buildActionMask = 2147483647;
-			dstPath = /usr/share/man/man1/;
-			dstSubfolderSpec = 0;
+			buildActionMask = 8;
+			dstPath = "";
+			dstSubfolderSpec = 16;
 			files = (
 			);
+			name = "Copy Files";
 			runOnlyForDeploymentPostprocessing = 1;
 		};
 /* End PBXCopyFilesBuildPhase section */
@@ -71,7 +72,7 @@
 			buildPhases = (
 				A1A4A0EC1AB4821200E41897 /* Sources */,
 				A1A4A0ED1AB4821200E41897 /* Frameworks */,
-				A1A4A0EE1AB4821200E41897 /* CopyFiles */,
+				A1A4A0EE1AB4821200E41897 /* Copy Files */,
 			);
 			buildRules = (
 			);
