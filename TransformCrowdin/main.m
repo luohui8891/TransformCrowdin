@@ -29,7 +29,6 @@ void createParameter(void){
                               @"he": @{iosMapKey: @"he.lproj", androidMapKey: @"values-he"},
                               @"no": @{iosMapKey: @"no.lproj", androidMapKey: @"values-nb-rNO"},
                               @"sr": @{iosMapKey: @"sr.lproj", androidMapKey: @"values-sr"},
-                              @"en": @{iosMapKey: @"en.lproj", androidMapKey: @"values-en"},
                               @"hr": @{iosMapKey: @"hr.lproj", androidMapKey: @"values-hr"},
                               @"pl": @{iosMapKey: @"pl.lproj", androidMapKey: @"values-pl"},
                               @"sv-SE": @{iosMapKey: @"sv.lproj", androidMapKey: @"values-sv"},
