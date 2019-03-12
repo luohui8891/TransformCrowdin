@@ -12,7 +12,7 @@ static NSDictionary * configurationHash = nil;
 static NSString * originDir = @"tapatalk-all";
 
 static NSString * iosOriginDir = @"Tapatalk for  iPhone";
-static NSString * iosFileName = @"Localizable.strings";
+static NSString * iosFileName = @"TKLocalizable.strings";
 static NSString * iosDestDir = @"ios";
 
 static NSString * androidOriginDir = @"Tapatalk for Android";
